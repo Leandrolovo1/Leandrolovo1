@@ -3,8 +3,9 @@
 
 - 🔭 Estou estagiando em uma assistência técnica
 - 🌱 Estou estudando CSS, HTML e JavaScript
-- 📫 How to reach me: leandrolovo1@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 📸 @Leandrolov0
+- 📫 leandrolovo1@gmail.com
+- 😄 Ele/Dele
 
 ![blueberry](https://github-readme-stats.vercel.app/api?username=Leandrolovo1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry&locale=pt-br) 
 
