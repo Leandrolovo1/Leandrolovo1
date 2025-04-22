@@ -6,7 +6,7 @@
 - 📫 How to reach me: leandrolovo1@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-![monokai](https://github-readme-stats.vercel.app/api?username=Leandrolovo1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai&locale=pt-br) 
+![blueberry](https://github-readme-stats.vercel.app/api?username=Leandrolovo1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry&locale=pt-br) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
