@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou estagiando em uma assistência técnica
-- 🌱 Estou estudando CSS, HTML e JavaScript
+- 🌱 Estou estudando desenvolvimento web com foco no backend
 - 📸 @Leandrolov0
 - 📫 leandrolovo1@gmail.com
 - 😄 Ele/Dele
