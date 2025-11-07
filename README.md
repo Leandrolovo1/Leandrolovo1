@@ -1,4 +1,4 @@
-## Olá meu nome é Leandro Lovo 👋
+8## Olá meu nome é Leandro Lovo 👋
 
 
 - 🔭 Estou estagiando em uma assistência técnica
@@ -26,5 +26,6 @@
 
  <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
+ <img align="center" alt="Leandro-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 </div>
