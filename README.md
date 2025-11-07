@@ -1,4 +1,4 @@
-8## Olá meu nome é Leandro Lovo 👋
+Olá meu nome é Leandro Lovo 👋
 
 
 - 🔭 Estou estagiando em uma assistência técnica
