@@ -1,8 +1,8 @@
 Olá meu nome é Leandro Lovo 👋
 
 
-- 🔭 Estou estagiando em uma assistência técnica
-- 💻 Estou estudando Desenvolvimento Web com foco no backend
+- 🔭 Estou atuando como Aprendiz Administrativo e desenvolvendo um sistema único para auxiliar todo um setor dentro da empresa 
+- 💻 Estou estudando Desenvolvimento Web Fullstack
 - 📸 @Leandrolov0
 - 📫 leandrolovo1@gmail.com
 - 😄 Ele/Dele
